@@ -30,5 +30,5 @@ Hello! I'm Igor! Frontend developer with experience in creating web applications
 
 ### Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/igor-mokhov)
+- [LinkedIn](https://www.linkedin.com/in/igor-mokhov)
 - [Email](mailto:igormokhovid@gmail.com)
