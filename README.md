@@ -1,10 +1,6 @@
-### Hi there 👋
+## Hi there 👋   My name is Igor Mokhov!
 
-# Igor Mokhov
-
-## Frontend Developer
-
-Hello! I'm Igor! Frontend developer with experience in creating web applications. I possess the necessary skills to write high-quality and efficient code. I have advanced soft skills and many years of experience in the online business sector. I am looking for an opportunity to participate in interesting projects and become a part of a team, improving it with my knowledge to achieve common goals.
+I am Frontend developer with experience in creating web applications. I possess the necessary skills to write high-quality and efficient code. I have advanced soft skills and many years of experience in the online business sector. I am looking for an opportunity to participate in interesting projects and become a part of a team, improving it with my knowledge to achieve common goals.
 
 ### Skills
 
