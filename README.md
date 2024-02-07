@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**IgorMokhov/igorMokhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Igor Mokhov
 
-Here are some ideas to get you started:
+## Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Igor! Frontend developer with experience in creating web applications. I possess the necessary skills to write high-quality and efficient code. I have advanced soft skills and many years of experience in the online business sector. I am looking for an opportunity to participate in interesting projects and become a part of a team, improving it with my knowledge to achieve common goals.
+
+### Skills
+
+- React.js
+- JavaScript
+- TypeScript
+- Redux
+- Redux Toolkit
+- Redux Thunk
+- HTML
+- CSS
+- SCSS
+- Material UI
+- Web Development
+- Responsive Web Design
+- Axios
+- Git
+
+### Languages
+
+- English (A2)
+- Russian (Native)
+
+### Let's Connect
+
+- [LinkedIn](www.linkedin.com/in/igor-mokhov)
+- [Email](mailto:igormokhovid@gmail.com)
