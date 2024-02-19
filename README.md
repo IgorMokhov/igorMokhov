@@ -17,7 +17,7 @@ I am Frontend developer with experience in creating web applications. I possess 
 - Web Development
 - Responsive Web Design
 - Axios
-- Git
+- Git / Github
 
 ### Languages
 
