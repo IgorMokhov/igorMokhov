@@ -9,7 +9,6 @@ I am Frontend developer with experience in creating web applications. I possess 
 - TypeScript
 - Redux
 - Redux Toolkit
-- Redux Thunk
 - HTML
 - CSS
 - SCSS
