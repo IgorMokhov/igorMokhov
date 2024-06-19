@@ -5,10 +5,12 @@ I am Frontend developer with experience in creating web applications. I possess 
 ### Skills
 
 - React.js
+- Next.js
 - JavaScript
 - TypeScript
 - Redux
 - Redux Toolkit
+- React Hook Form
 - HTML
 - CSS
 - SCSS
