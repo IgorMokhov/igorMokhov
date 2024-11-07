@@ -22,7 +22,7 @@ I am Frontend developer with experience in creating web applications. I possess 
 
 ### Languages
 
-- English (A2)
+- English (B1)
 - Russian (Native)
 
 ### Let's Connect
