@@ -11,12 +11,11 @@ I am Frontend developer with experience in creating web applications. I possess 
 - Redux
 - Redux Toolkit
 - RTK Query
+- TanStack Query
 - React Hook Form
 - HTML
 - CSS
 - SCSS
-- Web Development
-- Responsive Web Design
 - Axios
 - Git / Github / Gitlub
 
@@ -28,4 +27,5 @@ I am Frontend developer with experience in creating web applications. I possess 
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/igor-mokhov)
+- [Codewars](https://www.codewars.com/users/ImScript)
 - [Email](mailto:igormokhovid@gmail.com)
